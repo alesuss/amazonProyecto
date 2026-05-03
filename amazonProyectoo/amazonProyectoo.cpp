@@ -11,6 +11,7 @@ void menu()
 	cout << "2. Registrarse" << endl;
 	cout << "3. Salir" << endl;
 	cout << "hola papu" << endl;
+	cout << "sndsakdkasndsdna";
 }
 
 int main()
