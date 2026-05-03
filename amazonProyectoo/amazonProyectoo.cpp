@@ -2,7 +2,6 @@
 #include "pch.h"
 #include <string>
 
-
 using namespace std;
 
 void menu()
@@ -11,6 +10,7 @@ void menu()
 	cout << "1. Iniciar sesion" << endl;
 	cout << "2. Registrarse" << endl;
 	cout << "3. Salir" << endl;
+	cout << "hola papu" << endl;
 }
 
 int main()
