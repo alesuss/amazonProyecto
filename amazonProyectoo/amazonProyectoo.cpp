@@ -12,6 +12,7 @@ void menu()
 	cout << "3. Salir" << endl;
 	cout << "hola papu" << endl;
 	cout << "sndsakdkasndsdna";
+	cout << "holaaaaaa";
 }
 
 int main()
